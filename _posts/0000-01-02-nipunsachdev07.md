@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+My funny text
 Tum Saath kya laaye ho!
 
